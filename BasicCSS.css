@@ -1,0 +1,23 @@
+h1{
+    color:darkblue;
+    background-color: lightsalmon;
+}
+
+.bluetext{
+    color: #0000FF;
+}
+
+#greenid {
+    color:green;
+    background-color: red;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color:cyan;
+    text-decoration: underline;
+}
