@@ -1,0 +1,45 @@
+h1{
+    color:darkblue;
+    background-color: lightsalmon;
+}
+
+h2{
+    color:darkblue;
+    background-color: lightsalmon;
+}
+
+span{
+    color: aqua;
+    background-color: blanchedalmond;
+}
+
+div{
+    color:lightsalmon;
+    background-color: darkblue;
+
+}
+
+h3{
+    color:darkblue;
+    background-color: lightsalmon;
+}
+
+.p{
+    color:lightblue;
+    background-color:darkblue;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color:rgb(255, 255, 131);
+    text-decoration: underline;
+}
+
+a:visited{
+    color:green;
+    text-decoration: underline;
+}
