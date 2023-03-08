@@ -1,0 +1,100 @@
+h1{
+    color:black;
+    background-color: white;
+    font-family: helvetica;
+    font-weight: normal;
+    padding: 20px 20px 20px 20px;
+}
+
+h2{
+    color:black;
+    background-color: white;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+main{
+    color:black;
+    background-color: white;
+    text-align: justify;
+    padding: 20px 20px 20px 20px;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color:red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a:visited{
+    color:blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body {
+    background-image: url(a5bg.png);
+    background-repeat: repeat;
+}      
+
+footer{
+    color: white;
+    font-family: verdana;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    background-color: darkblue;   
+}
+
+hr.solid {
+    border-top: 3px solid #bbb;
+    border-color: black;
+  }
+
+.button{
+    background-color: darkblue;
+    border: none;
+    color: white;
+    padding: 14px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button{
+    transition-duration: 0.4s;
+  }
+  
+.button:hover {
+    background-color: blue;
+    color: white;
+  }
+
+.d{
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.d:visited{
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.d:hover{
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+
