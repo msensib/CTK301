@@ -1,0 +1,97 @@
+h1{
+    color:orange;
+    background-color: darkblue;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: normal;
+}
+
+h2{
+    color:orange;
+    background-color: darkblue;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: normal;
+}
+
+h3{
+    color:orange;
+    background-color: darkblue;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: normal;
+}
+
+span{
+    color:orange;
+    background-color: darkblue;
+    font-family: sans-serif;
+}
+
+div{
+    color:lightsalmon;
+    background-color: darkblue;
+    font-family: sans-serif;
+
+}
+
+.p{
+    color:darkblue;
+    background-color:lightblue;
+    font-family: sans-serif;
+}
+
+.p2{
+    color:darkblue;
+    background-color:lightblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.p3{
+    color:darkblue;
+    background-color:lightblue;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+
+a{
+    color: red;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+a:hover{
+    color:rgb(255, 255, 131);
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+a:visited{
+    color:green;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+.box{
+    border: 10px solid #000000;
+    padding: 2px 2px 2px 2px;
+    margin: 20px 20px 20px 20px;
+    background-color: yellow;
+}
+
+.bbox{
+    border: 10px solid #000000;
+    padding: 2px 2px 2px 2px;
+    margin: 20px 20px 20px 20px;
+    background-color: yellow;
+    width: 1000px;
+}
+
+body {
+    background-color: rgb(152, 187, 199);
+    background-image: url(https://wallpapercave.com/dwp2x/cmxyfTV.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+}      
