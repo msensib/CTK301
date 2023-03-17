@@ -1,0 +1,156 @@
+h1{
+    font-family: helvetica;
+    font-weight: normal;
+    padding: 20px 20px 20px 20px;
+    margin: 5px 5px 5px 5px;
+    background-color: black;   
+    color: white;
+}
+
+h2{
+    font-family: helvetica;
+}
+
+body {
+    background-image: url(https://msensib.github.io/CTK301/a62.png);
+    background-repeat: repeat;
+} 
+
+hr.solid {
+    border-top: 3px solid #bbb;
+    border-color: black;
+  }
+
+.div{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 15px;
+    border: 5px solid black;
+    padding: 20px 20px 20px 20px;
+    margin: 15px 180px 0px 180px;
+    background-color: white;  
+    border-bottom-style: hidden;
+
+}
+
+.box{
+    border: 4px solid #000000;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 10px;
+    background-color: white;
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+footer{
+    font-family: verdana;
+    font-style: italic;
+    text-align: center;
+    color: white;
+    border: 5px solid black;
+    padding: 5px 5px 5px 5px;
+    margin: 0px 180px 40px 180px;
+    background-color: red;   
+}
+
+span{
+    font-family: georgia;
+    text-align: justify;
+    font-weight: bold; 
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color:blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a:visited:hover{
+    color:blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a:visited{
+    color:red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.page{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 350px;
+  }
+
+nav{
+    margin: -5px -40px;
+}
+
+
+nav li{
+    background-color: red;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    font-weight: normal;
+}
+
+nav ul{
+    float: left;
+    list-style-type: none;
+    
+}
+  
+  nav li a {
+    color: #ffffff;
+    border: none;
+    padding: 20px 110px 20px 110px;
+    margin: 10px -5px 10px -5px;
+    display: block;
+    font-weight: normal;
+  }
+  
+nav li a:hover{
+    border: none;
+    background-color: darkred;
+    color:white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: normal;
+}
+
+nav li a:visited{
+    border: none;
+    color:white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: normal;
+}
+
+nav li a:hover:visited{
+    border: none;
+    color:white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: normal;
+}
+
+
