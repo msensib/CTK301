@@ -1,0 +1,172 @@
+body {
+    background-image: url(https://msensib.github.io/CTK301/background.jpg);
+    background-repeat: repeat;
+} 
+
+h1{
+    font-family: helvetica;
+    font-weight: normal;
+    font-size: 32px;
+    padding: 20px 20px 20px 20px;
+    margin: 5px 5px 5px 5px;
+    background-color:rgb(95, 148, 233);    
+    border: 5px solid black;
+    margin: 15px 180px 0px 180px;
+}
+
+.have2{
+    font-size: 26px;
+    font-family: helvetica;
+    font-weight: normal;
+    color: black;
+}
+
+.have3{
+    margin: 5px 5px 5px 5px;
+    font-size: 26px;
+    color: white;
+}
+
+hr.solid2{
+    border-top: 3px solid #bbb;
+    border-color: white;
+  }
+
+hr.solid {
+    border-top: 3px solid #bbb;
+    border-color: black;
+  }
+
+.page{
+    border: 5px solid black;
+    padding: 20px 20px 20px 20px;
+    margin: 0px 180px 0px 180px;
+    background-color: white;  
+    border-bottom-style: hidden;
+    border-top-style:hidden;
+
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-weight: bold;
+    font-size: medium;
+    color: black;
+    border: 5px solid black;
+    padding: 5px 5px 5px 15px;
+    margin: 0px 180px 40px 180px;
+    background-color: rgb(95, 148, 233);   
+}
+
+.bruh{
+    background-color: rgb(95, 148, 233); 
+    padding: 5px 5px 100px 15px;  
+    margin: -580px 0px 0px 720px;
+    color: white;
+    text-align: left
+}
+
+
+.omg{
+    margin: 0px 400px 0px 0px;
+}
+
+.box{
+    float: right;
+}
+
+.p2{
+    font-style: italic;
+}
+
+.p1{
+    text-align: left
+}
+
+nav{
+    display: inline-block;
+}
+
+
+nav li{
+    background-color: darkgreen;
+    float: left;
+    border: black 3px solid;
+    color: white;
+    padding: 0px;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    font-weight: bold
+}
+
+nav ul{
+    display: block;
+    list-style-type: none;
+    
+}
+  
+  nav li a {
+    color: #ffffff;
+    border: none;
+    padding: 20px 70px 20px 70px;
+    display: block;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+nav li a:hover{
+    border: none;
+    background-color: darkred;
+    color:white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav li a:visited{
+    border: none;
+    color:white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav li a:hover:visited{
+    border: none;
+    color:white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.this{
+    color: darkgreen;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.this:hover{
+    color:darkblue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.this:visited:hover{
+    color:darkblue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.this:visited{
+    color:darkgreen;
+    text-decoration: underline;
+    font-weight: bold;
+}
